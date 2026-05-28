@@ -107,9 +107,14 @@
 | 📝 Blog Platform | [Live](https://fastidious-peony-503282.netlify.app) | [GitHub](https://github.com/praveennayak21/blog-platform) |
 | 💬 NeonTalk Chat | [Live](https://imaginative-daffodil-67d9aa.netlify.app) | [GitHub](https://github.com/praveennayak21/NeonTalk-Chat-App) |
 | 🍚 Rice Quality ML | - | [GitHub](https://github.com/praveennayak21/rice-quality-ml) |
+| 🌾 Rice Morph Pro | - | [GitHub](https://github.com/praveennayak21/rice-morph-pro) |
+| 📊 Data Analysis | - | [GitHub](https://github.com/praveennayak21/data-analysis-project) |
 
 ## 🛠️ Tech Stack
 HTML · CSS · JavaScript · Python · Machine Learning
+
+## 📈 Currently
+🔨 Building projects daily to land my first dev job!
 
 ---
 
