@@ -100,13 +100,16 @@
 
 ---
 
-## 🚀 My Projects:
+## 🚀 My Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌾 [RiceMorph Pro](https://github.com/praveennayak21/rice-morph-pro) | REST APIs processing 500+ records, CRUD with Hibernate/JPA, migrating to microservices | Spring Boot, MySQL, Hibernate, PHP |
-| 📊 [Data Analysis Project](https://github.com/praveennayak21/data-analysis-project) | CSV/Excel data analysis with charts, summary stats and Excel export | Python, Pandas, Matplotlib, NumPy |
-| 🤖 [Rice Quality ML](https://github.com/praveennayak21/rice-quality-ml) | Rice grade prediction using 4 ML models — Random Forest, SVM, Decision Tree | Python, Scikit-learn, Pandas |
+| Project | Live Demo | Code |
+|---------|-----------|------|
+| 📝 Blog Platform | [Live](https://fastidious-peony-503282.netlify.app) | [GitHub](https://github.com/praveennayak21/blog-platform) |
+| 💬 NeonTalk Chat | [Live](https://imaginative-daffodil-67d9aa.netlify.app) | [GitHub](https://github.com/praveennayak21/NeonTalk-Chat-App) |
+| 🍚 Rice Quality ML | - | [GitHub](https://github.com/praveennayak21/rice-quality-ml) |
+
+## 🛠️ Tech Stack
+HTML · CSS · JavaScript · Python · Machine Learning
 
 ---
 
